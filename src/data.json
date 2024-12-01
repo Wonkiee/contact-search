@@ -1,0 +1,380 @@
+[
+    {
+        "firstName": "Sophie",
+        "lastName": "Dupont",
+        "dob": "1983-06-14",
+        "email": "sophie.dupont@email.com",
+        "phone": "+1-514-555-0198",
+        "address": {
+            "street": "1234 Saint-Denis Street",
+            "city": "Montreal",
+            "state": "QC",
+            "zip": "H2X 3J3"
+        }
+    },
+    {
+        "firstName": "Lucas",
+        "lastName": "Boudreau",
+        "dob": "1990-11-22",
+        "email": "lucas.boudreau@email.com",
+        "phone": "+1-416-555-1245",
+        "address": {
+            "street": "5678 Queen Street West",
+            "city": "Toronto",
+            "state": "ON",
+            "zip": "M6R 1A5"
+        }
+    },
+    {
+        "firstName": "Emma",
+        "lastName": "Lavoie",
+        "dob": "1985-03-08",
+        "email": "emma.lavoie@email.com",
+        "phone": "+1-604-555-6789",
+        "address": {
+            "street": "9876 Granville Street",
+            "city": "Vancouver",
+            "state": "BC",
+            "zip": "V6P 4Z5"
+        }
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Martel",
+        "dob": "1993-07-30",
+        "email": "noah.martel@email.com",
+        "phone": "+1-705-555-2345",
+        "address": {
+            "street": "123 Maple Avenue",
+            "city": "Sudbury",
+            "state": "ON",
+            "zip": "P3E 1C3"
+        }
+    },
+    {
+        "firstName": "Chloe",
+        "lastName": "Rousseau",
+        "dob": "1997-12-18",
+        "email": "chloe.rousseau@email.com",
+        "phone": "+1-819-555-3456",
+        "address": {
+            "street": "321 Laurentian Boulevard",
+            "city": "Gatineau",
+            "state": "QC",
+            "zip": "J8T 8H4"
+        }
+    },
+    {
+        "firstName": "Liam",
+        "lastName": "Blanchard",
+        "dob": "1995-05-12",
+        "email": "liam.blanchard@email.com",
+        "phone": "+1-403-555-5678",
+        "address": {
+            "street": "45 Elbow Drive SW",
+            "city": "Calgary",
+            "state": "AB",
+            "zip": "T2S 2L5"
+        }
+    },
+    {
+        "firstName": "Ava",
+        "lastName": "Gauthier",
+        "dob": "1988-01-25",
+        "email": "ava.gauthier@email.com",
+        "phone": "+1-514-555-7788",
+        "address": {
+            "street": "234 Rue Saint-Paul Ouest",
+            "city": "Montreal",
+            "state": "QC",
+            "zip": "H3C 1L3"
+        }
+    },
+    {
+        "firstName": "Ethan",
+        "lastName": "Gagne",
+        "dob": "1992-02-17",
+        "email": "ethan.gagne@email.com",
+        "phone": "+1-905-555-1122",
+        "address": {
+            "street": "1000 Dundas Street East",
+            "city": "Hamilton",
+            "state": "ON",
+            "zip": "L8M 1E4"
+        }
+    },
+    {
+        "firstName": "Olivia",
+        "lastName": "Nadeau",
+        "dob": "1994-09-08",
+        "email": "olivia.nadeau@email.com",
+        "phone": "+1-819-555-2134",
+        "address": {
+            "street": "456 Du Parc Avenue",
+            "city": "Sherbrooke",
+            "state": "QC",
+            "zip": "J1H 3L6"
+        }
+    },
+    {
+        "firstName": "Mason",
+        "lastName": "Fournier",
+        "dob": "1982-04-22",
+        "email": "mason.fournier@email.com",
+        "phone": "+1-403-555-3456",
+        "address": {
+            "street": "789 Banff Avenue",
+            "city": "Banff",
+            "state": "AB",
+            "zip": "T1L 1A1"
+        }
+    },
+    {
+        "firstName": "Charlotte",
+        "lastName": "Dube",
+        "dob": "1996-08-30",
+        "email": "charlotte.dube@email.com",
+        "phone": "+1-416-555-6789",
+        "address": {
+            "street": "12 Bathurst Street",
+            "city": "Toronto",
+            "state": "ON",
+            "zip": "M5V 3S4"
+        }
+    },
+    {
+        "firstName": "Sebastian",
+        "lastName": "Roy",
+        "dob": "1991-07-05",
+        "email": "sebastian.roy@email.com",
+        "phone": "+1-250-555-7890",
+        "address": {
+            "street": "8911 Victoria Avenue",
+            "city": "Victoria",
+            "state": "BC",
+            "zip": "V8X 3Y5"
+        }
+    },
+    {
+        "firstName": "Amelia",
+        "lastName": "Chartrand",
+        "dob": "1984-10-10",
+        "email": "amelia.chartrand@email.com",
+        "phone": "+1-514-555-3456",
+        "address": {
+            "street": "567 Notre-Dame Street",
+            "city": "Montreal",
+            "state": "QC",
+            "zip": "H2Y 1C6"
+        }
+    },
+    {
+        "firstName": "James",
+        "lastName": "Paquette",
+        "dob": "1990-06-22",
+        "email": "james.paquette@email.com",
+        "phone": "+1-613-555-9012",
+        "address": {
+            "street": "345 Rideau Street",
+            "city": "Ottawa",
+            "state": "ON",
+            "zip": "K1N 5Y2"
+        }
+    },
+    {
+        "firstName": "Isabella",
+        "lastName": "Lemoine",
+        "dob": "1986-11-15",
+        "email": "isabella.lemoine@email.com",
+        "phone": "+1-416-555-1234",
+        "address": {
+            "street": "123 Yonge Street",
+            "city": "Toronto",
+            "state": "ON",
+            "zip": "M5A 1Y2"
+        }
+    },
+    {
+        "firstName": "Benjamin",
+        "lastName": "Lacombe",
+        "dob": "1993-03-02",
+        "email": "benjamin.lacombe@email.com",
+        "phone": "+1-514-555-4321",
+        "address": {
+            "street": "256 Saint-Catherine Street",
+            "city": "Montreal",
+            "state": "QC",
+            "zip": "H3B 1A7"
+        }
+    },
+    {
+        "firstName": "Harper",
+        "lastName": "Bouchard",
+        "dob": "1997-09-09",
+        "email": "harper.bouchard@email.com",
+        "phone": "+1-705-555-6789",
+        "address": {
+            "street": "678 Bayfield Street",
+            "city": "Barrie",
+            "state": "ON",
+            "zip": "L4M 3C1"
+        }
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Joly",
+        "dob": "1992-05-18",
+        "email": "jack.joly@email.com",
+        "phone": "+1-819-555-2345",
+        "address": {
+            "street": "555 Rue Saint-Joseph",
+            "city": "Quebec City",
+            "state": "QC",
+            "zip": "G1K 3C6"
+        }
+    },
+    {
+        "firstName": "Mila",
+        "lastName": "Thibault",
+        "dob": "1991-12-07",
+        "email": "mila.thibault@email.com",
+        "phone": "+1-514-555-8765",
+        "address": {
+            "street": "6789 Saint-Laurent Boulevard",
+            "city": "Montreal",
+            "state": "QC",
+            "zip": "H2S 2H5"
+        }
+    },
+    {
+        "firstName": "Daniel",
+        "lastName": "Lafontaine",
+        "dob": "1987-09-20",
+        "email": "daniel.lafontaine@email.com",
+        "phone": "+1-418-555-4321",
+        "address": {
+            "street": "3438 Avenue Maguire",
+            "city": "Quebec City",
+            "state": "QC",
+            "zip": "G1X 3Z5"
+        }
+    },
+    {
+        "firstName": "Grace",
+        "lastName": "Gervais",
+        "dob": "1998-02-14",
+        "email": "grace.gervais@email.com",
+        "phone": "+1-905-555-5678",
+        "address": {
+            "street": "234 King Street",
+            "city": "Hamilton",
+            "state": "ON",
+            "zip": "L8P 1C3"
+        }
+    },
+    {
+        "firstName": "Zoe",
+        "lastName": "Morneau",
+        "dob": "1994-04-10",
+        "email": "zoe.morneau@email.com",
+        "phone": "+1-514-555-1234",
+        "address": {
+            "street": "89 Rue de la Montagne",
+            "city": "Montreal",
+            "state": "QC",
+            "zip": "H3G 1Z9"
+        }
+    },
+    {
+        "firstName": "Gabriel",
+        "lastName": "Poirier",
+        "dob": "1990-12-28",
+        "email": "gabriel.poirier@email.com",
+        "phone": "+1-416-555-2345",
+        "address": {
+            "street": "777 Bay Street",
+            "city": "Toronto",
+            "state": "ON",
+            "zip": "M5G 2C8"
+        }
+    },
+    {
+        "firstName": "Victoria",
+        "lastName": "Leclerc",
+        "dob": "1989-08-19",
+        "email": "victoria.leclerc@email.com",
+        "phone": "+1-403-555-6789",
+        "address": {
+            "street": "5555 Memorial Drive",
+            "city": "Calgary",
+            "state": "AB",
+            "zip": "T2A 3H7"
+        }
+    },
+    {
+        "firstName": "Aidan",
+        "lastName": "Benoit",
+        "dob": "1985-11-06",
+        "email": "aidan.benoit@email.com",
+        "phone": "+1-819-555-7890",
+        "address": {
+            "street": "150 Rue des Érables",
+            "city": "Trois-Rivières",
+            "state": "QC",
+            "zip": "G8T 4A6"
+        }
+    },
+    {
+        "firstName": "Lily",
+        "lastName": "Boucher",
+        "dob": "1995-01-13",
+        "email": "lily.boucher@email.com",
+        "phone": "+1-613-555-4321",
+        "address": {
+            "street": "87 Rue Wellington",
+            "city": "Ottawa",
+            "state": "ON",
+            "zip": "K1P 5L5"
+        }
+    },
+    {
+        "firstName": "Isaac",
+        "lastName": "Dufresne",
+        "dob": "1996-09-30",
+        "email": "isaac.dufresne@email.com",
+        "phone": "+1-705-555-9876",
+        "address": {
+            "street": "2340 Lakeshore Drive",
+            "city": "North Bay",
+            "state": "ON",
+            "zip": "P1A 2K6"
+        }
+    },
+    {
+        "firstName": "Ella",
+        "lastName": "Roy",
+        "dob": "1993-03-25",
+        "email": "ella.roy@email.com",
+        "phone": "+1-819-555-6789",
+        "address": {
+            "street": "1004 Boulevard de l'Université",
+            "city": "Gatineau",
+            "state": "QC",
+            "zip": "J8X 3Y8"
+        }
+    },
+    {
+        "firstName": "Cameron",
+        "lastName": "Viau",
+        "dob": "1984-10-12",
+        "email": "cameron.viau@email.com",
+        "phone": "+1-416-555-2345",
+        "address": {
+            "street": "345 Yonge Street",
+            "city": "Toronto",
+            "state": "ON",
+            "zip": "M5B 1N5"
+        }
+    }
+  ]
+  
